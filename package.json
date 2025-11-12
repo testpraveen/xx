@@ -1,0 +1,9 @@
+{
+  "name": "dependabot-test",
+  "version": "1.0.0",
+  "description": "Trigger Dependabot alert demo",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.19"
+  }
+}
