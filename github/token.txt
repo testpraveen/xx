@@ -1,0 +1,3 @@
+# GitHub personal access tokens (supported prefixes)
+token1=ghp_FAKEabcdef1234567890
+token2=ghs_FAKEservice1234567890
